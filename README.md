@@ -29,26 +29,5 @@ Explore my projects — from a full **MERN footwear e-commerce platform** to **m
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashu658&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu658&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🔥 Streak Stats  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashu658&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yashu658&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
 
