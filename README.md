@@ -47,7 +47,6 @@ I love building projects — from a full **MERN footwear e-commerce platform** t
 ---
 
 ## 📊 GitHub Stats
-![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashu658&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu658&layout=compact&theme=radical)  
 
 ---
