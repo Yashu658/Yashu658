@@ -7,8 +7,8 @@ I love building projects — from a full **MERN footwear e-commerce platform** t
 
 ## 👨‍💻 About Me
 - 🌱 Currently learning **React, MERN stack, and modern web development**  
-- 💡 Interested in building **scalable web apps** and experimenting with **mini projects**  
-- 🎯 Goal: Become a **Full-Stack Developer**  
+- 💡 Interested in building **scalable web apps**   
+- 🎯 Goal: **Full-Stack Developer**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yashu-sharma-16056b341/)  
 
 ---
@@ -55,4 +55,5 @@ I love building projects — from a full **MERN footwear e-commerce platform** t
 ## ✨ Fun Quote
 > "Code. Learn. Build. Repeat." 🚀  
 
-![Snake animation](https://github.com/Yashu658/Yashu658/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yashu658/Yashu658/blob/output/snake.svg)
+
