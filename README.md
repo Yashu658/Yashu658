@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yashu Sharma   
 
 🚀 Welcome to my GitHub!  
-I love building projects — from a full **MERN footwear e-commerce platform** to **modern React apps** and beginner-friendly **mini projects**.  
+“I love building projects — from a full MERN e-commerce platform to modern React apps and beginner-friendly mini projects.” 
 
 ---
 
