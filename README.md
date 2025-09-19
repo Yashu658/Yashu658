@@ -1,7 +1,27 @@
 # 👋 Hi, I'm Yashu Sharma   
 
 🚀 Welcome to my GitHub!  
-Explore my projects — from a full **MERN footwear e-commerce platform** to **modern React apps**.  
+I love building projects — from a full **MERN footwear e-commerce platform** to **modern React apps** and beginner-friendly **mini projects**.  
+
+---
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **React, MERN stack, and modern web development**  
+- 💡 Interested in building **scalable web apps** and experimenting with **mini projects**  
+- 🎯 Goal: Become a **Full-Stack Developer**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yashu-sharma-16056b341/)  
+
+---
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js)  
+![Express](https://img.shields.io/badge/Express.js-black?logo=express)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green?logo=mongodb)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blueviolet?logo=tailwindcss)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)  
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)  
 
 ---
 
@@ -22,12 +42,17 @@ Explore my projects — from a full **MERN footwear e-commerce platform** to **m
 - 🌐 [Portfolio](https://github.com/Yashu658/portfolio)  
   *Personal portfolio site showcasing my skills and projects.*  
 
----
-
-✨ Check out more on my [GitHub Repositories](https://github.com/Yashu658?tab=repositories)
-
+✨ Check out more on my [GitHub Repositories](https://github.com/Yashu658?tab=repositories)  
 
 ---
 
+## 📊 GitHub Stats
+![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashu658&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu658&layout=compact&theme=radical)  
 
+---
 
+## ✨ Fun Quote
+> "Code. Learn. Build. Repeat." 🚀  
+
+![Snake animation](https://github.com/Yashu658/Yashu658/blob/output/github-contribution-grid-snake.svg)
