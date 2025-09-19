@@ -51,8 +51,5 @@ I love building projects — from a full **MERN footwear e-commerce platform** t
 
 ---
 
-## ✨ Fun Quote
-> "Code. Learn. Build. Repeat." 🚀  
 
-![Snake animation](https://github.com/Yashu658/Yashu658/blob/output/snake.svg)
 
